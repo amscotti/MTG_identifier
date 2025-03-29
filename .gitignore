@@ -1,0 +1,28 @@
+# Bun
+node_modules/
+.env
+
+# Build
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# DevContainers
+!.devcontainer/
+
+# Misc
+coverage/
+.biome/

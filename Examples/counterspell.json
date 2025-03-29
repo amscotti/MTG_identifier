@@ -1,0 +1,9 @@
+{
+  "cardName": "Counterspell",
+  "setCode": "4ED",
+  "borderColor": "White",
+  "artist": "Mark Poole",
+  "rarity": "Common",
+  "manaCost": "{U}{U}",
+  "type": "Instant"
+}

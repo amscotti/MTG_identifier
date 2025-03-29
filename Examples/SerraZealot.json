@@ -1,0 +1,10 @@
+{
+  "cardName": "Serra Zealot",
+  "setCode": "USG",
+  "borderColor": "Black",
+  "artist": "DiTerlizzi",
+  "rarity": "Common",
+  "manaCost": "{W}",
+  "powerToughness": "1/1",
+  "type": "Summon Soldier"
+}

@@ -1,0 +1,10 @@
+{
+  "cardName": "Sliver Queen",
+  "setCode": "STH",
+  "borderColor": "Black",
+  "artist": "Ron Spencer",
+  "rarity": "Rare",
+  "manaCost": "{W}{U}{B}{R}{G}",
+  "powerToughness": "7/7",
+  "type": "Legendary Creature — Sliver"
+}

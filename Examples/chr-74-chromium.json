@@ -1,0 +1,10 @@
+{
+  "cardName": "Chromium",
+  "setCode": "LEG",
+  "borderColor": "White",
+  "artist": "Edward P. Beard, Jr.",
+  "rarity": "Rare",
+  "manaCost": "{2}{W}{W}{U}{U}{B}{B}",
+  "powerToughness": "7/7",
+  "type": "Summon Elder Dragon Legend"
+}
